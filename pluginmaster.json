@@ -16,9 +16,9 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  0,
-        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/sawtool/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/sawtool/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/sawtool/latest.zip"
+        "LastUpdate":  "1708848201",
+        "DownloadLinkInstall":  "https://github.com/sawsaw8/plugins/plugins/sawtool/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/sawsaw8/plugins/plugins/sawtool/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/sawsaw8/plugins/plugins/sawtool/latest.zip"
     }
 ]

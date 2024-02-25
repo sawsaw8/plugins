@@ -4,7 +4,7 @@ $ErrorActionPreference = 'SilentlyContinue'
 
 $output = New-Object Collections.Generic.List[object]
 
-$dlTemplate = "https://github.com/sawsaw8/plugins/tree/main/plugins/{0}/latest.zip"
+$dlTemplate = "https://github.com/sawsaw8/plugins/blob/main/plugins/{0}/latest.zip"
 
 $apiLevel = 8
 

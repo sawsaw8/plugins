@@ -3,7 +3,7 @@
         "Author":  "sawsaw",
         "Name":  "sawtool",
         "InternalName":  "sawtool",
-        "AssemblyVersion":  "0.0.0.1",
+        "AssemblyVersion":  "0.0.0.0",
         "Description":  "Automate move to flag, etc.",
         "ApplicableVersion":  "any",
         "DalamudApiLevel":  9,
@@ -16,7 +16,7 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdate":  "1708849779",
+        "LastUpdate":  "1708850360",
         "DownloadLinkInstall":  "https://github.com/sawsaw8/plugins/tree/main/plugins/sawtool/latest.zip",
         "DownloadLinkTesting":  "https://github.com/sawsaw8/plugins/tree/main/plugins/sawtool/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/sawsaw8/plugins/tree/main/plugins/sawtool/latest.zip"

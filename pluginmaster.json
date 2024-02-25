@@ -1,0 +1,24 @@
+[
+    {
+        "Author":  "sawsaw",
+        "Name":  "sawtool",
+        "InternalName":  "sawtool",
+        "AssemblyVersion":  "0.0.0.0",
+        "Description":  "Automate move to flag, etc.",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  9,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "IconUrl":  "",
+        "Punchline":  "saw\u0027s tools",
+        "AcceptsFeedback":  true,
+        "IsHide":  "False",
+        "IsTestingExclusive":  "False",
+        "LastUpdate":  0,
+        "DownloadLinkInstall":  "https://github.com/ryon5541/Plugins/raw/master/plugins/sawtool/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/sawtool/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/sawtool/latest.zip"
+    }
+]

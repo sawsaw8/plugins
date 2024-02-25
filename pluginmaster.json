@@ -17,8 +17,8 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdate":  "1708848201",
-        "DownloadLinkInstall":  "https://github.com/sawsaw8/plugins/plugins/sawtool/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/sawsaw8/plugins/plugins/sawtool/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/sawsaw8/plugins/plugins/sawtool/latest.zip"
+        "DownloadLinkInstall":  "https://github.com/sawsaw8/plugins/tree/main/plugins/sawtool/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/sawsaw8/plugins/tree/main/plugins/sawtool/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/sawsaw8/plugins/tree/main/plugins/sawtool/latest.zip"
     }
 ]

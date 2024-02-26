@@ -2,7 +2,7 @@
   "Author": "sawsaw",
   "Name": "sawtool",
   "InternalName": "sawtool",
-  "AssemblyVersion": "0.0.0.5",
+  "AssemblyVersion": "0.0.0.6",
   "Description": "Automate move to flag, etc.",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 9,

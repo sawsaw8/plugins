@@ -1,28 +1,6 @@
 [
     {
         "Author":  "sawsaw",
-        "Name":  "ChangeScale",
-        "InternalName":  "ChangeScale",
-        "AssemblyVersion":  "0.0.0.2",
-        "Description":  "Change Scale Mob etc.",
-        "ApplicableVersion":  "any",
-        "DalamudApiLevel":  9,
-        "LoadRequiredState":  0,
-        "LoadSync":  false,
-        "CanUnloadAsync":  false,
-        "LoadPriority":  0,
-        "IconUrl":  "",
-        "Punchline":  "ChangeScale",
-        "AcceptsFeedback":  true,
-        "IsHide":  "False",
-        "IsTestingExclusive":  "False",
-        "LastUpdate":  "1709079903",
-        "DownloadLinkInstall":  "https://github.com/sawsaw8/plugins/raw/main/plugins/ChangeScale/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/sawsaw8/plugins/raw/main/plugins/ChangeScale/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/sawsaw8/plugins/raw/main/plugins/ChangeScale/latest.zip"
-    },
-    {
-        "Author":  "sawsaw",
         "Name":  "sawtool",
         "InternalName":  "sawtool",
         "AssemblyVersion":  "0.0.0.7",

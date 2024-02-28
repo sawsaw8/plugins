@@ -2,7 +2,7 @@
   "Author": "sawsaw",
   "Name": "ChangeScale",
   "InternalName": "ChangeScale",
-  "AssemblyVersion": "0.0.0.1",
+  "AssemblyVersion": "0.0.0.2",
   "Description": "Change Scale Mob etc.",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 9,
